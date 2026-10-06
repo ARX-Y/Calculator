@@ -13,7 +13,7 @@
 ================================ */
 .calc-page {
     min-height: 100vh;
-    background: url('../kk.jpg') no-repeat center center/cover;
+    background: url('kk.jpg') no-repeat center center/cover;
 
     display: flex;
     justify-content: center;
